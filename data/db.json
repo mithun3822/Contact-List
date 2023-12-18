@@ -1,0 +1,40 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Aarus",
+      "Age": 24,
+      "Occupation": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Mithus",
+      "Age": 23,
+      "Occupation": "Software Engineer"
+    },
+    {
+      "id": 3,
+      "name": "Akash",
+      "Age": 23,
+      "Occupation": "Cloud Engineer"
+    },
+    {
+      "id": 4,
+      "name": "Ajeesh",
+      "Age": 24,
+      "Occupation": "Doctor"
+    },
+    {
+      "name": "Sreehari",
+      "Age": "22",
+      "Occupation": "MCA",
+      "id": 6
+    },
+    {
+      "name": "myruuus",
+      "Age": "3",
+      "Occupation": "baby",
+      "id": 7
+    }
+  ]
+}
